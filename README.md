@@ -1,14 +1,14 @@
-# NLP Unit 1 Programs
+# NLP Lab Programs
 
-This repository contains the practical programs covered in **Unit 1 of Natural Language Processing (NLP)**.
+This repository contains the practical programs covered in **Natural Language Processing (NLP)**.
 
 ## Student Details
 
-- **Name:** Aditi Mishra
-- **Roll Number:** 2401331520016
+- **Name:** Aadrika Srivastava
+- **Roll Number:** 2401331520002
 - **Course:** B.Tech CSE (Artificial Intelligence)
 - **Subject:** Natural Language Processing
-- **Unit:** Unit 1
+  
 
 ---
 
